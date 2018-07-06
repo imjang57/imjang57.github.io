@@ -2,4 +2,4 @@
 
 This is published by [Github pages](https://pages.github.com).
 
-- [[test]]
+- [test](test.md)
